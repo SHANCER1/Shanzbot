@@ -84,7 +84,7 @@ Click WA logo to Join Support Group 👇
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![M.DESH](https://telegra.ph/file/4a9b40791a09a31d93ff8.jpg)](https://github.com/Ajmal-Achu)[`M.DESH`](https://github.com/Desitha1)
+  [![M.DESH](https://telegra.ph/file/4a9b40791a09a31d93ff8.jpg)](https://github.com/Desitha1)[`M.DESH`](https://github.com/Desitha1)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
