@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw"><img src="https://telegra.ph/file/8a0101874470d88bdaa20.jpg" />
+  <a href="https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw"><img src="https://telegra.ph/file/209e4520ba1017a6e6bda.jpg" />
 </p>
 
 -------
