@@ -1,7 +1,7 @@
 # SHANZ-BOT
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/73ae8f3b4438bab4071c3.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/ac3f9fb4fec9456d8625d.jpg" width="200" height="200"/>
 
 <p align="center">
   <a href="https://www.facebook.com/mr.shanz3"><img src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=blue"/> 
@@ -21,12 +21,12 @@
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtube.com/channel/UCac60aS6ODS-MFB5s20H9-A)
+[`Click Here For Tutorial`](https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw)
 
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCac60aS6ODS-MFB5s20H9-A"><img src="https://telegra.ph/file/8a0101874470d88bdaa20.jpg" />
+  <a href="https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw"><img src="https://telegra.ph/file/8a0101874470d88bdaa20.jpg" />
 </p>
 
 -------
