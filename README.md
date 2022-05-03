@@ -34,12 +34,12 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://replit.com/@zenoi/GARFIELD-v60-QR-GENERTOR?v=1)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANCER1/SHANZ-BOT)
+     </div>
 ----------
 
 
