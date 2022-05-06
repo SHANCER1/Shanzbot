@@ -34,11 +34,11 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://replit.com/@zenoi/GARFIELD-v60-QR-GENERTOR?v=1)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://replit.com/@zenoi/GARFIELD-v60-QR-GENERTOR?v=1)](https://replit.com/@TRexWa/T-REX-QR-SESSION)
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANCER1/SHANZ-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANCER1/T-REX)
      </div>
 ----------
 
